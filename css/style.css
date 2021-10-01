@@ -1,0 +1,83 @@
+body {
+    font-family: roboto;
+    background-color: #e66260;
+    color: white;
+    margin:0%;
+}
+
+nav {
+    background-color: lightgreen;
+    margin:0%;
+    padding:2%;
+
+}
+
+header {
+    margin: 0%;
+}
+
+main {
+    margin: 0%;
+    padding: 0% 22%;
+    text-align:center;
+    font-size: 1.5rem;
+
+}
+
+
+
+
+
+li {
+    display: inline;
+    font-size: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+li :hover {
+    color: #e66260;
+}
+
+a {
+    text-decoration-line: none;
+    color:white;
+
+}
+
+footer {
+    height: 20%;
+    font-size: 1rem;
+    color: #6f4e37;
+    background-color: lightgreen;
+    text-align: center;
+    padding:2%;
+
+}
+
+
+#about {
+    height: 22rem;
+    margin: 0%;
+    justify-content: center;
+    margin: 0%;
+    border-radius: 30%;
+    
+
+} 
+
+#work {
+    height: 22rem;
+    margin: 0%;
+}
+
+#resume {
+    height: 22rem;
+}
+
+#contact {
+    height: 22rem;
+
+}
+
+
